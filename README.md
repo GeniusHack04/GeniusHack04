@@ -2,7 +2,7 @@
 #### A passionate Boy trying to figure-out stuff!
 ![A passionate Boy trying to figure-out stuff!](https://c4.wallpaperflare.com/wallpaper/371/264/21/itzmauuuroo-hackers-anonymous-hd-wallpaper-preview.jpg)
 
-I am a Software Developer and Cybersecurity Engineer
+I am a Android Developer and Cybersecurity Learner
 
 
 - 🔭 I’m currently working on this page. 
