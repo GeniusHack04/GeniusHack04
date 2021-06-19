@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm VISHAL MAURIYA
 #### A passionate Boy trying to figure-out stuff!
-![A passionate Boy trying to figure-out stuff!](https://c4.wallpaperflare.com/wallpaper/371/264/21/itzmauuuroo-hackers-anonymous-hd-wallpaper-preview.jpg)
+![A passionate Boy trying to figure-out stuff!](https://user-images.githubusercontent.com/54256792/122636391-adc04500-d106-11eb-8919-fba4574dcebc.jpg)
 
 I am a Android Developer and Cybersecurity Learner
 
