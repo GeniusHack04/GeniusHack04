@@ -1,12 +1,13 @@
 ### Hi there 👋, I'm VISHAL MAURIYA
 #### A passionate Boy trying to figure-out stuff!
-![A passionate Boy trying to figure-out stuff!](https://user-images.githubusercontent.com/54256792/122636391-adc04500-d106-11eb-8919-fba4574dcebc.jpg)
+![VISHAL MAURIYA](https://user-images.githubusercontent.com/54256792/167840026-3d2e03b2-b0e3-4656-bbf8-78e0b4159faf.png)
 
-I am a Android Developer and Cybersecurity Learner
+
+I am a Android Developer and WebApp Developer
 
 
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning Cybersecurity 
+- 🌱 I’m currently learning Full Stack 
 - 📫 How to reach me: vishalm7973@gmail.com 
 
 ![Profile views](https://gpvc.arturio.dev/VishalMauriya) 
