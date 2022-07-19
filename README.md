@@ -1,13 +1,12 @@
-### Hi there 👋, I'm VISHAL MAURIYA
-#### A passionate Boy trying to figure-out stuff!
-![VISHAL MAURIYA](https://user-images.githubusercontent.com/54256792/167840026-3d2e03b2-b0e3-4656-bbf8-78e0b4159faf.png)
+### Hi there 👋, this is VISHAL MAURIYA
+#### Let's Code !
 
-
-I am a Android Developer and WebApp Developer
+A Software Developer
+![Untitled design (4)](https://user-images.githubusercontent.com/54256792/179782682-ed084d33-1732-46ab-a0b7-5d479bd523da.png)
 
 
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning Full Stack 
+- 🌱 I’m currently learning Ionic 
 - 📫 How to reach me: vishalm7973@gmail.com 
 
 ![Profile views](https://gpvc.arturio.dev/VishalMauriya) 
