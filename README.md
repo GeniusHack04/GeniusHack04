@@ -1,10 +1,6 @@
 ### Hi there 👋, this is VISHAL MAURIYA
 #### Let's Code !
 
-A Software Developer
-![Untitled design (4)](https://user-images.githubusercontent.com/54256792/179782682-ed084d33-1732-46ab-a0b7-5d479bd523da.png)
-
-
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Ionic 
 - 📫 How to reach me: vishalm7973@gmail.com 
