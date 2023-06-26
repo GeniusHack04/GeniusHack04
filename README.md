@@ -1,8 +1,8 @@
 ### Hi there 👋, this is VISHAL MAURIYA
 #### Let's Code !
 
-- 🔭 I’m currently working DSA. 
-- 🌱 I’m currently learning Ionic 
+- 🔭 I’m currently working on DSA. 
+- 🌱 I’m currently learning React 
 - 📫 How to reach me: vishalm7973@gmail.com 
 
 ![Profile views](https://gpvc.arturio.dev/VishalMauriya) 
