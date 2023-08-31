@@ -8,10 +8,10 @@
   <a href="https://www.linkedin.com/in/vishal-mauriya/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vishal-mauriya" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://instagram.com/__vishal79__" target="_blank">
+  <a href="https://instagram.com/_vishal79_" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" height="25" alt="instagram logo"  />
   </a>
-  <a href="https://twitter.com/__vishal79__" target="_blank">
+  <a href="https://twitter.com/_vishal79_" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" height="25" alt="twitter logo"  />
   </a>
 </div>
